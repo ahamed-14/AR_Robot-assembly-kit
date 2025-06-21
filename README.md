@@ -3,6 +3,7 @@ This project is an interactive Augmented Reality (AR) application built with Uni
 
 
 Key Features:
+
 •	Interactive Drag-and-Drop: Seamlessly drag and place robot parts to their correct locations.
 •	Exploded View Mode: A dedicated scene to visualize all the robot's components in a disassembled state, with options to rotate the model.
 •	AR-Ready: Built with AR Foundation (or similar) to project the robot into your real-world environment.

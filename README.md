@@ -1,5 +1,5 @@
 # AR_Robot-assembly-kit
-This project is an interactive Augmented Reality (AR) application built with Unity. It allows users to assemble a 3D robot model using intuitive drag-and-drop controls. The application features a detailed assembly mode with a scoring system and an "exploded view" to explore the robot's individual components. This project demonstrates key concepts in AR development and interactive 3D object manipulation.
+This project is an interactive Augmented Reality (AR) application built with Unity version 2022.3.53f1. It allows users to assemble a 3D robot model using intuitive drag-and-drop controls. The application features a detailed assembly mode with a scoring system and an "exploded view" to explore the robot's individual components. This project demonstrates key concepts in AR development and interactive 3D object manipulation.
 
 
 Key Features:
